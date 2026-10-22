@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Tedani (not my real name) and I'm a student at UT.
 
 <!--
 **TedaniPurple/TedaniPurple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
